@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="style.css">
+	<title>Robótica</title>
+</head>
+<body>
+
+	<header>
+		<h1 id="titulo">ROBÓTICA</h1>
+		<background-img title="Robótica Educacional" alt="Robótica Educacional" src="http://eeigalileu.com.br/tim.php?src=uploads/artigos/2018/02/11-robotica-educacional.jpg&amp;w=1140&amp;h=400">
+	</header>
+  <nav>
+      <a href="index.html" class="local">INÍCIO</a>
+      <a href="scratch.html">SCRATCH</a>
+      <a href="arduino.html">ARDUÍNO</a>
+      <a href="maker.html">MAKER</a>
+    </nav>
+    <main class="container">
+      <img src="robfoto/rob5.JPG">
+
+      <article>
+        <h2>Introdução à Robótica</h2>
+        <p>Todo mundo sabe o quanto a tecnologia nos rodeia no nosso próprio dia a dia. Ela está nos meios de comunicação, de transporte, nos produtos que consumimos, serviços que contratamos e daí por diante.</p>
+        <p>O que nem todo mundo sabe é o papel que a robótica desempenha nesse universo incrivelmente tecnológico.</p>
+        <p>Naturalmente, a imagem tradicional de um robô como sendo um androide (robô semelhante a um humano) não é totalmente verdadeira. Embora haja essa frente de estudo e desenvolvimento, a verdade é que o conceito de robótica vai muito além.</p>
+        <p>Hoje, a robótica está presente em laboratórios, indústrias e até mesmo em algumas residências. Ela pode compor desde o projeto de um gerador silencioso predial até esteiras de unidades fabris dotadas de inteligência artificial.</p>
+        <p>De fato, a robótica nada mais é que a automatização de um processo que ou se torna mais fácil quando retirado da esfera de força de trabalho humana ou – indo mais além – jamais poderia ser feito por um ser humano.</p>
+        <p>Aqui podemos falar tanto sobre força – uma máquina é muito mais forte que um homem – quanto podemos falar sobre trabalhos especiais e perigosos, tal como os realizados em selvas, no fundo dos oceanos ou até mesmo no espaço sideral.</p>
+        <p>Não é raro ouvir dizer que a robótica e a programação são o trabalho do futuro. Portanto, se você quer ficar por dentro desse universo incrível e entender quais as vantagens que estudar essa disciplina e ministrá-la em instituições de ensino podem trazer profissionalmente, siga conosco na leitura deste artigo.</p>
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/9KFf2z1Cacc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>Enquanto matéria de estudo, a robótica cresceu mais de 30% no último período, segundo dados do IDC Brasil, que é a versão nacional do International Data Corporation, famoso escritório de consultoria e pesquisa de mercado. </p>
+				<p>Segundo a mesma fonte, em termos de mercado, o crescimento será ainda mais barulhento: até o ano de 2021, a aplicação de robôs colaborativos (tanto para finalidades residenciais, quanto para projetos de automação industrial) deverá crescer mais de 70%.</p>
+				<p>Como vimos acima, a robótica decididamente é multidisciplinar, que depende da união de várias técnicas, programações, algoritmos e configurações para atingir as suas finalidades. As matérias mais tradicionalmente envolvidas são:	</p>
+
+   <ul type="cicle">
+
+    <li>Lógica Matemática</li>
+    <li>Engenharia Mecância</li>
+    <li>Desenho Mecâncico</li>
+    <li>Inteligência Artificial</li>
+    <li>Engenharia Elétrica</li>
+		<li>Engenharia Mecatrônica</li>
+     </ul>
+		 <p>Apesar desse currículo amplo e desafiador, a robótica está longe de ser aquele tipo de disciplina que assusta os alunos.Quebrando paradigmas as meninas também podem e devem aprender robótica.</p>
+      </article>
+			<img src="robfoto/rob3.JPG">
+    </main>
+    <footer>
+      <small>Fonte:
+        <a href="https://www.guiadeinvestimento.com.br/" target="_blank">A importância da robótica</a>
+        <a href="https://www.facebook.com/roboticasebastiao/" target="_blank">roboticasebastiao</a>
+				<p>contato: meirematema@gmail.com</p>
+      </small>
+    </footer>
+  </body>
+</html>
