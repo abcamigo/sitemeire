@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap');
+
+html * {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Red Rose', cursive;
+	margin: 28px;
+	background-color: #DCDCDC;
+}
+
+img {
+	height: 350px;
+	width: 100%;
+	object-fit: cover;
+}
+
+#titulo, .cartao, img, .botao, footer, .filtro {
+	border-radius: 8px;
+}
+
+#titulo {
+	background-color: ##6A5ACD;
+	color: #000080;
+	font-size: 44px;
+	text-shadow: 3px 3px 4px #F8F8FF;
+	background-image: url("robfoto/rob1.JPG");
+	background-position: center;
+	background-size: cover;
+	padding: 36px 16px;
+  text-shadow: 4px 4px 4px #000;
+}
+main.container {
+  width: 60vw;
+  margin: auto;
+}
+nav {
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+}
+nav > a {
+  border-top: 4px solid #bbb;
+	border-bottom: 4px solid #bbb;
+  color: #424242;
+  font-size: 20px;
+  padding: 15px 8px;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s;
+}
+nav > a:hover {
+  background-color: #836FFF;
+  border-bottom: 4px solid orange;
+}
+.local{
+	background-color: #836FFF;
+}
+img {
+  box-shadow: 4px 4px 4px #424242;
+  margin: 24px auto;
+  max-width: 100%;
+}
+
+h2 {
+  border-bottom: 1px solid #ccc;
+  color: #424242;
+  font-size: 32px;
+  margin-bottom: 22px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+
+p > a {
+  color: orange;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+p > a:hover {
+  opacity: 0.8;
+}
+
+p > span {
+  background-color: orange;
+  padding: 0 4px;
+}
+
+iframe {
+  display: block;
+  max-width: 100%;
+  margin: 24px auto;
+}
+
+footer {
+  background-color: #424242;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 128px;
+  margin-top: 24px;
+}
+
+footer > small {
+  color: #fff;
+  font-size: 20px;
+}
+
+footer > small a {
+  color: orange;
+  text-decoration: none;
+}
+
+footer > small a:hover {
+  text-decoration: line-through;
+}
